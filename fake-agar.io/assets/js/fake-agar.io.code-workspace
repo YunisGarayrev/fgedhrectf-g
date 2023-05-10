@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../fc-task"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fake-agar.io"
+	}
+}
